@@ -1,12 +1,12 @@
 # Plots-Makie
 
-## [Templete](./templete)
+## [template](./template)
 
-### [Plots.jl](./templete/plots.jl)
-![](./templete/plots.svg)
+### [Plots.jl](./template/plots.jl)
+![](./template/plots.svg)
 
-### [Makie.jl](./templete/makie.jl)
-![](./templete/makie.svg)
+### [Makie.jl](./template/makie.jl)
+![](./template/makie.svg)
 
 ## [Hello](./hello)
 

@@ -3,7 +3,7 @@ println("begin")
 io = open("./README.md", "w")
 println(io, "# Plots-Makie")
 
-for dir in ["templete", "hello", "lines", "scatter", "histogram", "surface", "heatmap", "subplot", "grid", "text", "artistic", "animation"]
+for dir in ["template", "hello", "lines", "scatter", "histogram", "surface", "heatmap", "subplot", "grid", "text", "artistic", "animation"]
   cd(dir)
   extension =
     if dir == "animation"
