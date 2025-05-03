@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="420" viewBox="0 0 1680 1680">
+<defs>
+  <clipPath id="clip930">
+    <rect x="0" y="0" width="1680" height="1680"/>
+  </clipPath>
+</defs>
+<path clip-path="url(#clip930)" d="M0 1680 L1680 1680 L1680 0 L0 0  Z" fill="#ffffff" fill-rule="evenodd" fill-opacity="1"/>
+<defs>
+  <clipPath id="clip931">
+    <rect x="336" y="168" width="1177" height="1177"/>
+  </clipPath>
+</defs>
+<path clip-path="url(#clip930)" d="M0 1680 L1680 1680 L1680 0 L0 0  Z" fill="#ffffff" fill-rule="evenodd" fill-opacity="1"/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="84,3360 84,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="252,3360 252,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="420,3360 420,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="588,3360 588,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="756,3360 756,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="924,3360 924,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="1092,3360 1092,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="1260,3360 1260,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="1428,3360 1428,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="1596,3360 1596,-1680 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,1596 3360,1596 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,1428 3360,1428 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,1260 3360,1260 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,1092 3360,1092 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,924 3360,924 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,756 3360,756 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,588 3360,588 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,420 3360,420 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,252 3360,252 "/>
+<polyline clip-path="url(#clip930)" style="stroke:#ff0000; stroke-linecap:round; stroke-linejoin:round; stroke-width:80; stroke-opacity:0.5; fill:none" points="-1680,84 3360,84 "/>
+</svg>

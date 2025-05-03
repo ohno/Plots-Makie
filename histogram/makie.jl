@@ -1,5 +1,6 @@
 using CairoMakie
 
-fig = lines(0:0.1:10, sin)
+X = randn(10000)
+fig = hist(X)
 
 save("./makie.svg", fig)

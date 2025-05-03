@@ -26,6 +26,14 @@ lines!(
   color = "#224466",
 )
 
+lines!(
+  axis,
+  0..5,
+  x -> x^3,
+  label = L"y = x^3",
+  color = "#BC1C5F",
+)
+
 axislegend(
   axis,
   position = :rt,
