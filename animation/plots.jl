@@ -10,6 +10,7 @@ for i in 1:12
     xlims = (-1.8, 1.8),
     ylims = (-1.2, 1.2),
     label = "",
+    size = (840, 600),
   )
   frame(anim, plt)
 end

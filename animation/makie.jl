@@ -1,6 +1,8 @@
 using CairoMakie
 
-fig = Figure()
+fig = Figure(
+  size = (420, 300),
+)
 
 axis = Axis(
   fig[1,1],
