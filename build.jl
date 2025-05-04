@@ -14,12 +14,15 @@ for dir in ["template", "hello", "lines", "scatter", "histogram", "surface", "he
       "svg"
     end
   println(pwd())
-  println(io, "")
-  println(io, "## [$(uppercasefirst(dir))](./$(dir))")
-  println(io, "\n### [Plots.jl](./$(dir)/plots.jl)")
-  println(io, "![](./$(dir)/plots.$(extension))")
-  println(io, "\n### [Makie.jl](./$(dir)/makie.jl)")
-  println(io, "![](./$(dir)/makie.$(extension))")
+  print(io, "\n")
+  print(io, "## [$(uppercasefirst(dir))](./$(dir))\n\n")
+  print(io, "| [Plots.jl](./$(dir)/plots.jl) ")
+  print(io, "| [Makie.jl](./$(dir)/makie.jl) ")
+  print(io, "|\n")
+  print(io, "| --- | --- |\n")
+  print(io, "| ![](./$(dir)/plots.$(extension)) ")
+  print(io, "| ![](./$(dir)/makie.$(extension)) ")
+  print(io, "|\n")
   include("./$(dir)/$(ARGS[1]).jl")
   cd("..")
 end
