@@ -2,7 +2,7 @@ using CairoMakie
 
 fig = Figure(
   size = (420,300),
-  fontsize = 11.5,
+  fontsize = 11,
   backgroundcolor = :transparent,
 )
 
