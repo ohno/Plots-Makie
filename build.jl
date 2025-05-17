@@ -1,3 +1,6 @@
+# run `julia build.jl plots` on the terminal
+# run `julia build.jl makie` on the terminal
+
 println("begin")
 
 io = open("./README.md", "w")
