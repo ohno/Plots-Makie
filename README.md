@@ -42,6 +42,12 @@
 | --- | --- |
 | ![](./heatmap/plots.svg) | ![](./heatmap/makie.svg) |
 
+## [Multiple](./multiple)
+
+| [Plots.jl](./multiple/plots.jl) | [Makie.jl](./multiple/makie.jl) |
+| --- | --- |
+| ![](./multiple/plots.svg) | ![](./multiple/makie.svg) |
+
 ## [Subplot](./subplot)
 
 | [Plots.jl](./subplot/plots.jl) | [Makie.jl](./subplot/makie.jl) |
