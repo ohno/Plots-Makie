@@ -1,6 +1,6 @@
 using Plots
 
-plot(
+plt = plot(
   size = (420,420),
   background_color = "#FFFFFF",
   xlims = (-5, 5),
@@ -18,6 +18,7 @@ plot(
 )
 
 vline!(
+  plt,
   -4.5:4.5,
   lw = 20,
   color = "#FF0000",
@@ -26,6 +27,7 @@ vline!(
 )
 
 hline!(
+  plt,
   -4.5:4.5,
   lw = 20,
   color = "#FF0000",

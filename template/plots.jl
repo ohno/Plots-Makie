@@ -1,7 +1,7 @@
 using Plots
 using LaTeXStrings
 
-plot(
+plt = plot(
   size = (420,300),
   title = "Title",
   xlabel = L"x",
@@ -17,6 +17,7 @@ plot(
 )
 
 plot!(
+  plt,
   x -> x^2,
   xlims = (0,5),
   ylims = (0,50),
@@ -26,6 +27,7 @@ plot!(
 )
 
 plot!(
+  plt,
   x -> x^3,
   xlims = (0,5),
   ylims = (0,50),
